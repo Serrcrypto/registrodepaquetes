@@ -1,4 +1,4 @@
-# Guest Book 📖 
+# Registro de entrega de paquetes 📖 
 [![](https://img.shields.io/badge/⋈%20Examples-Basics-green)](https://docs.near.org/tutorials/welcome)
 [![](https://img.shields.io/badge/Gitpod-Ready-orange)](https://gitpod.io/#/https://github.com/near-examples/guest-book-js)
 [![](https://img.shields.io/badge/Contract-js-yellow)](https://docs.near.org/develop/contracts/anatomy)
@@ -8,7 +8,7 @@
 
 Este ejemplo de un registro sencillo donde el status de un paquete con ID proporcionado por quien firma se actualiza de Entregado o no entregado.
 
-![](img src="https://iili.io/JEG7rSn.md.png)
+![](https://iili.io/JEG7rSn.md.png)
 
 
 # What This Example Shows
