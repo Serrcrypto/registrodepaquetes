@@ -51,11 +51,11 @@ near view librovisitas.testnet get_messages '{"from_index":0, "limit":10}'
 ## 5. Agregar status del paquete
 
 ```bash
-near call registrodepaquetes.testnet add_message '{"text": "No entregado"}' --accountId yairnava.testnet
+near call registrodepaquetes.testnet add_message '{"text": "No entregado"}' --accountId jibsam.testnet
 ```
 
 ```bash
-near call owaguestbook.testnet add_message '{"text": "ID paquete entregado 12312"}' --amount 0.1 --accountId yairnava.testnet
+near call owaguestbook.testnet add_message '{"text": "ID paquete entregado 12312"}' --amount 0.1 --accountId jibsam.testnet
 ```
 
 ## 6. Get Total Paquetes Entregados y no entregados
