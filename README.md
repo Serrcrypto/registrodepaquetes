@@ -55,7 +55,7 @@ near call registrodepaquetes.testnet add_message '{"text": "No entregado"}' --ac
 ```
 
 ```bash
-near call owaguestbook.testnet add_message '{"text": "ID paquete entregado 12312"}' --amount 0.1 --accountId jibsam.testnet
+near call registrodepaquetes.testnet add_message '{"text": "ID paquete entregado 12312"}' --amount 0.1 --accountId jibsam.testnet
 ```
 
 ## 6. Get Total Paquetes Entregados y no entregados
